@@ -1,0 +1,18 @@
+#ABOUT{
+        background-image:url(/img/emilia-about.jpg);
+        background-repeat: no-repeat;
+        background-size: 70%;
+        background-position: right top; 
+        }
+
+#textos p {
+color: #2E7B7F;
+margin-left: 25px;
+}
+
+#textos h3{
+color: #2E7B7F;
+margin-left: 25px;
+}
+
+

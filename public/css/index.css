@@ -1,0 +1,14 @@
+#INDEX{
+    background-image:url(/img/emilia-home.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: right; 
+    height: 100vh;
+    overflow-x: hidden;
+    }
+
+    #ALBUM {
+        background-color: rgba(255,255,255,0.5);
+        margin-top: 200px;
+    }
+    

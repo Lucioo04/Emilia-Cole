@@ -1,0 +1,66 @@
+@import './index.css';
+@import './contact.css';
+@import './about.css';
+@import './music.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Raleway:wght@700&display=swap');
+
+a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.redes ul li  {
+display: inline;
+}
+
+.menu-general ul li {
+    display: inline;
+    border-left: 1px solid black;
+    padding: 5px;
+    
+}
+
+.menu-general {
+    text-align: right;
+    background-color: rgba(255,255,255,0.5);
+    padding:5px;
+    margin-top:50px; 
+}
+
+.redes {
+text-align :right;
+}
+
+#redes ul li {
+    display: inline;
+    }
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    
+}
